@@ -1,0 +1,9 @@
+# Ignore Node.js dependencies
+my-dashboard/node_modules/
+
+# Ignore Python virtual environment
+show_chars/venv/
+
+# Ignore compiled files
+*.pyc
+__pycache__/
